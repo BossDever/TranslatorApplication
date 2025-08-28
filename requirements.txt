@@ -1,0 +1,5 @@
+deep-translator
+# Note:
+# - tkinter is part of the Python standard library and isn't published on PyPI as "tkinter" for pip installs.
+# - If you need the Tk runtime via pip in some environments, you can try the package name "tk" (may not be supported everywhere).
+tk
