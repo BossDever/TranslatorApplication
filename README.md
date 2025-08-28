@@ -20,7 +20,7 @@
 
 1. **Clone หรือดาวน์โหลดโปรเจค**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/BossDever/TranslatorApplication.git
    cd TranslatorApplication
    ```
 
@@ -111,7 +111,7 @@ TranslatorApplication/
 
 ## ผู้พัฒนา
 
-พัฒนาโดย [ชื่อผู้พัฒนา]
+พัฒนาโดย [BossDever](https://github.com/BossDever)
 
 ---
 
