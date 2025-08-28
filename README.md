@@ -24,7 +24,7 @@
 
 1) Clone โปรเจกต์
 ```bash
-git clone <repository-url>
+git clone https://github.com/BossDever/TranslatorApplication.git
 cd TranslatorApplication
 ```
 
@@ -99,4 +99,10 @@ TranslatorApplication/
 - ปรับแต่งธีมและรูปแบบฟอนต์ของ UI
 
 ## License
-โปรเจกต์นี้เป็นโอเพนซอร์ส ดูรายละเอียดสัญญาอนุญาตได้ในไฟล์ LICENSE ของโปรเจกต์
+โปรเจกต์นี้เป็นโอเพนซอร์ส โปรดดูรายละเอียดสัญญาอนุญาตในไฟล์ LICENSE ของโปรเจกต์
+
+## ผู้พัฒนา
+พัฒนาโดย [ชื่อผู้พัฒนา]
+
+---
+หมายเหตุ: แอปพลิเคชันนี้ใช้ Google Translate ผ่านไลบรารี deep-translator ซึ่งอาจมีข้อจำกัดด้านอัตราการใช้งานหรือการเข้าถึงตามนโยบายของผู้ให้บริการ
